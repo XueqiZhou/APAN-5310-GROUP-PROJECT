@@ -1,0 +1,8 @@
+Links to items
+https://www.kaggle.com/datasets/leomauro/argodatathon2019 for flights and hotels data
+
+https://www.kaggle.com/datasets/kushleshkumar/cornell-car-rental-dataset for car rental data
+
+https://www.kaggle.com/datasets/michelhatab/hotel-reviews-bookingcom for hotel_review text and ratings
+
+https://lucid.app/lucidchart/4e19de40-3e54-469b-bb2c-2fb2d750915c/edit?view_items=fU0Or02JNrJk&invitationId=inv_61733fc3-56c7-4137-9113-02514d6b2888 Link to ER diagram
